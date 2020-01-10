@@ -1,6 +1,6 @@
 >java.io下的流种类繁多，但是只要我们捋顺了之后，就会豁然开朗,接下来我们一起来捋捋这错综复杂的io流  
 
-![](https://img2018.cnblogs.com/blog/1012917/202001/1012917-20200108212440886-1892544495.png)  
+![](https://github.com/zhangwanghua/dafeng/blob/master/src/java%E9%AB%98%E7%BA%A7/img/t_io.png?raw=true)  
 
 其中，以Stream结尾的为字节流，以Writer或者Reader结尾的为字符流。所有的输入流都是抽象类IuputStream（字节输入流）或者抽象类Reader（字符输入流）的子类，所有的输出流都是抽象类OutputStream(字节输出流)或者抽象类Writer(字符输出流)的子类。字符流能实现的功能字节流都能实现，反之不一定。如：图片，视频等二进制文件，只能使用字节流读写。
 
