@@ -14,8 +14,8 @@
 ### Java框架
 
 ### 设计模式
->#### [设计模式总览](https://www.cnblogs.com/dafengdeai/p/12180476.html)
->#### [单例模式](https://www.cnblogs.com/dafengdeai/p/12180384.html)
+>#### [设计模式总览](https://github.com/zhangwanghua/dafeng/blob/master/src/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E6%80%BB%E8%A7%88.md)
+>#### [单例模式](https://github.com/zhangwanghua/dafeng/blob/master/src/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F.md)
 
 ### JavaWeb
 
