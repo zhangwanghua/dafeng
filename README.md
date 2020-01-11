@@ -13,6 +13,10 @@
 
 ### Java框架
 
+### 设计模式
+>#### [设计模式总览](https://www.cnblogs.com/dafengdeai/p/12180476.html)
+>#### [单例模式](https://www.cnblogs.com/dafengdeai/p/12180384.html)
+
 ### JavaWeb
 
 ### 数据库
