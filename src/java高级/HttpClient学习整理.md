@@ -2,7 +2,7 @@ Http协议的重要性相信不用我多说了，HttpClient相比传统JDK自带
 
 org.apache.commons.httpclient.HttpClient与org.apache.http.client.HttpClient的区别
 >Commons的HttpClient项目现在不再被开发,已被Apache HttpComponents项目HttpClient和的HttpCore模组取代，提供更好的性能和更大的灵活性。  
-![](https://img2018.cnblogs.com/blog/1012917/201912/1012917-20191201114500417-987375842.png)
+![](https://github.com/zhangwanghua/dafeng/blob/master/src/java%E9%AB%98%E7%BA%A7/img/httpclient.png?raw=true)
 
 一、简介
 ---
